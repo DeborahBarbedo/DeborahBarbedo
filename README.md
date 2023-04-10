@@ -33,8 +33,11 @@
 
 I'm a data scientist with experience in processing large volumes of data to identify patterns and make predictions.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-pereira-a67072145/?locale=en_US)
+- :mailbox:How to reach me:
 
+<div>
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-pereira-a67072145/?locale=en_US)
+</div>
 - :hammer_and_wrench:Languages and Tools :
 
 <div>
