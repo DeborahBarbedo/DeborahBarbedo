@@ -1,11 +1,9 @@
-### Hi there 👋
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRkMDg1MTUzODg3N2EwZDAyMDdhNDg3NGFiZGQwZjVhMDg0MmE4OSZjdD1n/fedryX7dMGMe6lgqDm/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/GitHub%20Pages-white?style=for-the-badge&logo=githubpages&logoColor=darkblue" alt="GitHub Pages Badge"/>
 </div>
