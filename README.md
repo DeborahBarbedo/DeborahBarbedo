@@ -3,18 +3,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRkMDg1MTUzODg3N2EwZDAyMDdhNDg3NGFiZGQwZjVhMDg0MmE4OSZjdD1n/fedryX7dMGMe6lgqDm/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-white?style=for-the-badge&logo=githubpages&logoColor=darkblue" alt="GitHub Pages Badge"/>
-</div>
-
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/deborah-pereira-a67072145/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://deborahbarbedo.github.io/">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-white?style=for-the-badge&logo=githubpages&logoColor=darkblue" alt="GitHub Pages Badge"/>
+    <img src="https://img.shields.io/badge/GitHub%20Pages-darkblue?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages Badge"/>
   </a>
 </div>
 
@@ -36,7 +30,7 @@
 
 I'm a data scientist with experience in processing large volumes of data to identify patterns and make predictions.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-pereira-a67072145/?locale=en_US)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-pereira-a67072145/?locale=en_US)
 
 - :hammer_and_wrench:Languages and Tools :
 
