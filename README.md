@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRkMDg1MTUzODg3N2EwZDAyMDdhNDg3NGFiZGQwZjVhMDg0MmE4OSZjdD1n/fedryX7dMGMe6lgqDm/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/deborah-pereira-a67072145/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,7 +12,10 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=DeborahBarbedo&style=flat-square&color=blue" alt=""/>
+<div id="badges2" align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeborahBarbedo&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
 
 <h1>
   Welcome to my GitHub!
@@ -36,8 +39,8 @@ I'm a data scientist with experience in processing large volumes of data to iden
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original-wordmark.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original-wordmark.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
@@ -45,9 +48,8 @@ I'm a data scientist with experience in processing large volumes of data to iden
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original-wordmark.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original-wordmark.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
 </div>
 
