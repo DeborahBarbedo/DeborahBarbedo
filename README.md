@@ -10,6 +10,9 @@
   <a href="https://deborahbarbedo.github.io/">
     <img src="https://img.shields.io/badge/GitHub%20Pages-darkblue?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages Badge"/>
   </a>
+  <a href="https://twitter.com/DeborahBarbedo">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <div id="badges2" align="center">
